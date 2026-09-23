@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Software Engineering Technician graduate from Centennial College.
+
+Entry‑level developer who enjoys building simple full‑stack projects with React, Node.js, Express, and MongoDB.
+
+
 <!--
 **Rohan-Tenn/Rohan-Tenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
